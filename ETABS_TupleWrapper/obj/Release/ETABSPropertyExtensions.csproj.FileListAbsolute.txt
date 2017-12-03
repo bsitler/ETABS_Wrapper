@@ -1,0 +1,9 @@
+F:\Dropbox\Git\ETABS_GetFunction\ETABSPropertyExtensions\bin\Release\ETABSPropertyExtensions.dll
+F:\Dropbox\Git\ETABS_GetFunction\ETABSPropertyExtensions\bin\Release\ETABSPropertyExtensions.pdb
+F:\Dropbox\Git\ETABS_GetFunction\ETABSPropertyExtensions\bin\Release\ETABS2016.dll
+F:\Dropbox\Git\ETABS_GetFunction\ETABSPropertyExtensions\bin\Release\System.ValueTuple.dll
+F:\Dropbox\Git\ETABS_GetFunction\ETABSPropertyExtensions\bin\Release\System.ValueTuple.xml
+F:\Dropbox\Git\ETABS_GetFunction\ETABSPropertyExtensions\obj\Release\ETABSPropertyExtensions.csprojResolveAssemblyReference.cache
+F:\Dropbox\Git\ETABS_GetFunction\ETABSPropertyExtensions\obj\Release\ETABSPropertyExtensions.csproj.CoreCompileInputs.cache
+F:\Dropbox\Git\ETABS_GetFunction\ETABSPropertyExtensions\obj\Release\ETABSPropertyExtensions.dll
+F:\Dropbox\Git\ETABS_GetFunction\ETABSPropertyExtensions\obj\Release\ETABSPropertyExtensions.pdb

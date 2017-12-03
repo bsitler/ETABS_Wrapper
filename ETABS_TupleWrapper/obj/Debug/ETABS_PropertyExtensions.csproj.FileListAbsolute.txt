@@ -1,0 +1,7 @@
+F:\Dropbox\Git\ETABSTupleFunc\ETABSPropertyExtensions\bin\Debug\ETABS_PropertyExtensions.dll
+F:\Dropbox\Git\ETABSTupleFunc\ETABSPropertyExtensions\bin\Debug\ETABS_PropertyExtensions.pdb
+F:\Dropbox\Git\ETABSTupleFunc\ETABSPropertyExtensions\bin\Debug\ETABS2016.dll
+F:\Dropbox\Git\ETABSTupleFunc\ETABSPropertyExtensions\obj\Debug\ETABS_PropertyExtensions.csprojResolveAssemblyReference.cache
+F:\Dropbox\Git\ETABSTupleFunc\ETABSPropertyExtensions\obj\Debug\ETABS_PropertyExtensions.csproj.CoreCompileInputs.cache
+F:\Dropbox\Git\ETABSTupleFunc\ETABSPropertyExtensions\obj\Debug\ETABS_PropertyExtensions.dll
+F:\Dropbox\Git\ETABSTupleFunc\ETABSPropertyExtensions\obj\Debug\ETABS_PropertyExtensions.pdb
