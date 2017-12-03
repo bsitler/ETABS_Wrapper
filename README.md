@@ -35,4 +35,5 @@ TO USE WRAPPERS IN PLUGIN
 To use this library in your plugin:
 1) Project>ProjectName Properties>Application>Target Framework>.NET Framework 4.7 (or greater)
 2) References>Add reference>Browse>ETABSTupleFunc.dll
-3) Intellisense should now include (extension) overloads for most ETABS functions
+3) add to each file: using ETABS2016;
+4) Intellisense should now include (extension) overloads for most ETABS functions
