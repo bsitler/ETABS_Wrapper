@@ -11,3 +11,9 @@ F:\Dropbox\Git\ETABSTupleFunc\ETABS_TupleWrapper\obj\Debug\ETABS_TupleWrapper.cs
 F:\Dropbox\Git\ETABSTupleFunc\ETABS_TupleWrapper\obj\Debug\ETABS_TupleWrapper.csproj.CoreCompileInputs.cache
 F:\Dropbox\Git\ETABSTupleFunc\ETABS_TupleWrapper\obj\Debug\ETABS_TupleWrapper.dll
 F:\Dropbox\Git\ETABSTupleFunc\ETABS_TupleWrapper\obj\Debug\ETABS_TupleWrapper.pdb
+F:\Dropbox\Git\ETABS_TupleWrapper\ETABS_TupleWrapper\bin\Debug\ETABS_TupleWrapper.dll
+F:\Dropbox\Git\ETABS_TupleWrapper\ETABS_TupleWrapper\bin\Debug\ETABS_TupleWrapper.pdb
+F:\Dropbox\Git\ETABS_TupleWrapper\ETABS_TupleWrapper\obj\Debug\ETABS_TupleWrapper.csprojResolveAssemblyReference.cache
+F:\Dropbox\Git\ETABS_TupleWrapper\ETABS_TupleWrapper\obj\Debug\ETABS_TupleWrapper.csproj.CoreCompileInputs.cache
+F:\Dropbox\Git\ETABS_TupleWrapper\ETABS_TupleWrapper\obj\Debug\ETABS_TupleWrapper.dll
+F:\Dropbox\Git\ETABS_TupleWrapper\ETABS_TupleWrapper\obj\Debug\ETABS_TupleWrapper.pdb

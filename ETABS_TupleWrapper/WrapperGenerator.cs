@@ -248,34 +248,5 @@ namespace {0}
             
             return writer.ToString().TrimEnd();
         }
-
-        //public static string GetMethodList(string namesp = "ETABS2016", string assemblyName = "ETABS2016")
-        //{
-        //    // Load Assembly
-        //    var assembly = AppDomain.CurrentDomain.GetAssemblies().FirstOrDefault(a => a.GetName().Name == assemblyName);
-        //    if (assembly == null)
-        //    {
-        //        assembly = Assembly.Load(assemblyName);
-        //        if (assembly == null) return null;
-        //    }
-
-        //    // Summarize Method Parameters
-        //    var methods = new StringBuilder();
-        //    foreach (var t in assembly.GetTypes())
-        //    {
-        //        var typeName = t.Name;
-        //        foreach (var m in t.GetMethods())
-        //        {
-        //            var methodName = m.Name;
-        //            foreach (var p in m.GetParameters())
-        //            {
-        //                methods.AppendLine(string.Format("{0}\t{1}\t{2}\t{3}\t{4}", typeName, methodName,
-        //                    p.Name, p.ParameterType.Name, p.ParameterType.IsByRef ? "ref" : ""));
-        //                typeName = ""; methodName = "";
-        //            }
-        //        }
-        //    }
-        //    return methods.ToString();
-        //}
     }
 }
