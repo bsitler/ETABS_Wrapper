@@ -1,0 +1,6 @@
+F:\Dropbox\Git\ETABS_TupleWrapper\ETABS2016_Extensions\bin\Release\ETABS2016_Extensions.dll
+F:\Dropbox\Git\ETABS_TupleWrapper\ETABS2016_Extensions\bin\Release\ETABS2016_Extensions.pdb
+F:\Dropbox\Git\ETABS_TupleWrapper\ETABS2016_Extensions\obj\Release\ETABS2016_Extensions.csprojResolveAssemblyReference.cache
+F:\Dropbox\Git\ETABS_TupleWrapper\ETABS2016_Extensions\obj\Release\ETABS2016_Extensions.csproj.CoreCompileInputs.cache
+F:\Dropbox\Git\ETABS_TupleWrapper\ETABS2016_Extensions\obj\Release\ETABS2016_Extensions.dll
+F:\Dropbox\Git\ETABS_TupleWrapper\ETABS2016_Extensions\obj\Release\ETABS2016_Extensions.pdb

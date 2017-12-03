@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETABS_Wrapper", "ETABS_Wrapper\ETABS_Wrapper.csproj", "{5307FEB3-BF89-4C96-ACC9-E62AA203F4C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETABS2016_Extensions", "ETABS2016_Extensions\ETABS2016_Extensions.csproj", "{EA1B2EB9-0ADC-450C-92FF-E361084B67B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5307FEB3-BF89-4C96-ACC9-E62AA203F4C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5307FEB3-BF89-4C96-ACC9-E62AA203F4C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5307FEB3-BF89-4C96-ACC9-E62AA203F4C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5307FEB3-BF89-4C96-ACC9-E62AA203F4C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA1B2EB9-0ADC-450C-92FF-E361084B67B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA1B2EB9-0ADC-450C-92FF-E361084B67B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA1B2EB9-0ADC-450C-92FF-E361084B67B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA1B2EB9-0ADC-450C-92FF-E361084B67B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {158E2F50-FA90-4D25-A1F1-831A8B02AC32}
+	EndGlobalSection
+EndGlobal
