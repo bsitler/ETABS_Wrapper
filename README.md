@@ -44,6 +44,7 @@ In ETABS_Wrapper project
 * References>Add reference>Browse>select ETABS2017.dll
 * Right click on project>Initialize Interactive with Project>
     WrapperGenerator.CreateWrapper("ETABS2017","ETABS2017");
+<<<<<<< HEAD
 * Solution>Add>New Project>ETABS2017_Extensions
 In new project
 * Copy Extensions_2017 folder and new wrapper classes to new project
@@ -51,3 +52,17 @@ In new project
 * Select folder Extensions_2017>Include in Project
 * References>Add reference>Browse>select ETABS2017.dll
 * Build project
+=======
+3) Solution Explore>Show All Files
+4) Extensions_2017>Include in Project
+5) Build project
+
+------------------------------------------
+TO USE WRAPPERS IN PLUGIN
+
+To use this library in your plugin:
+1) Project>ProjectName Properties>Application>Target Framework>.NET Framework 4.7 (or greater)
+2) References>Add reference>Browse>ETABSTupleFunc.dll
+3) add to each file: using ETABS2016;
+4) Intellisense should now include (extension) overloads for most ETABS functions
+>>>>>>> b7559c680900b3bbd27d824b66e85ff92637cfee
